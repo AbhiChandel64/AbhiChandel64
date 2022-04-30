@@ -9,7 +9,7 @@
 
 ##### Quick learner with core knowledge of MERN stack technology. Looking forward to applying and enhancing my skills and knowledge as a developer.
 
-- Have a look at my [portfolio](https://starlit-tartufo-ff0547.netlify.app).
+- 💬 Have a look at my [portfolio](https://starlit-tartufo-ff0547.netlify.app).
 - 📫 Drop a mail: [abhichandel64@gmail.com](mailto:abhichandel64@gmail.com)
 
 [<img style="margin: 5px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AbhiChandel64)  [<img style="margin: 5px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abhishek-chandel-//)  [<img style="margin: 5px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/abhishekchandel64//)
